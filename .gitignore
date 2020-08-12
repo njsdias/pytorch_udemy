@@ -1,0 +1,9 @@
+*.csv
+*.jpg
+*.png
+notebooks/
+models/
+venv/
+/input
+.idea/
+
